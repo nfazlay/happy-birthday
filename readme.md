@@ -2,6 +2,6 @@
 
 Added background music player and removed the minion video and end page. 
 
-Thanks to [Tingrui](https://github.com/eladoh) for the amazng project.
+Thanks to [Tingrui](https://github.com/eladoh) for the amazing project.
 
 
