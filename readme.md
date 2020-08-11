@@ -1,4 +1,4 @@
-<h2> Original repo [here](https://github.com/eladoh/happy-birthday.git)</h2>
+# Original repo [here](https://github.com/eladoh/happy-birthday.git)
 
 Added background music player and removed the minion video and end page. 
 
