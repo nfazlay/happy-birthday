@@ -15,7 +15,7 @@
 var canvas = document.getElementById("canvas1"),
     ctx1 = canvas.getContext("2d"),
     keyword1 = "HAPPY BIRTHDAY",
-    keyword2 = "ZAREEN",
+    keyword2 = "TASHFIA",
     imageData,
     density =1,
     mouse = {},
@@ -666,7 +666,7 @@ function showConfetti(){
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings_1: [["  Happy birthday!", "  Zareen  "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "], ["  Enjoy your day!!  "]],
+      strings_1: [["  Happy birthday!", "  Tashfia  "], ["   May all happiness,"], ["all luck"], [" always surround", "you  "], ["  Enjoy your day!!  "]],
 
       charSize: 20,
       // charSpacing: 22,
